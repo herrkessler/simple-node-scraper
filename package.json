@@ -1,0 +1,12 @@
+{
+  "name"         : "simple-node-scrape",
+  "version"      : "0.0.1",
+  "description"  : "Scrape le web.",
+  "main"         : "server.js",
+  "author"       : "Originally by Scotch",
+  "dependencies" : {
+    "express"    : "*",
+    "request"    : "*",
+    "cheerio"    : "*"
+  }
+}
